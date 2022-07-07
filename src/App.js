@@ -15,7 +15,16 @@ export default function App() {
           {" "}
           <small>
             {" "}
-            Coded by Marija Tržić Rastija, it is{" "}
+            Coded by{" "}
+            <a
+              href="https://www.linkedin.com/in/marija-trzic-rastija-711009175/"
+              target="_blank"
+              rel="noreferrer"
+              alt="Linkedin link"
+            >
+              Marija Tržić Rastija,
+            </a>{" "}
+            it is{" "}
             <a
               href="https://github.com/MarijaTRastija/dictionary-project"
               target="_blank"
